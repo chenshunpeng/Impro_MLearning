@@ -1,0 +1,28 @@
+﻿  pch.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  MFCApplication1.cpp
+  MFCApplication1Doc.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  正在生成代码...
+  MFCApplication1View.cpp
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(6,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30037\include\vcruntime.h(313): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(157,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(301,33): warning C4129: “i”: 不可识别的字符转义序列
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(690,9): warning C4101: “j”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(690,6): warning C4101: “i”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(713,6): warning C4101: “value”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(757,12): warning C4101: “m”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(757,9): warning C4101: “j”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(757,6): warning C4101: “i”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(758,7): warning C4101: “block”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(757,15): warning C4101: “n”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(765,6): warning C4101: “rept”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(772,6): warning C4101: “rept”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(841,9): warning C4101: “fpLst”: 未引用的局部变量
+D:\D其他\图像处理与机器学习\实验1\神奇\MFCApplication1\MFCApplication1View.cpp(842,7): warning C4101: “n”: 未引用的局部变量
+  MFCApplication1.vcxproj -> D:\D其他\图像处理与机器学习\实验1\神奇\Debug\MFCApplication1.exe
